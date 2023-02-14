@@ -1,0 +1,7 @@
+train: /content/train_data/train
+val: /content/train_data/valid
+
+nc: 1
+names: ['trash_plastic']
+
+
